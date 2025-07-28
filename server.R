@@ -75,15 +75,15 @@ server <- function(input, output, session) {
       email <- emayili::envelope(
         from = "akrsuperfamily@outlook.com",
         to = "penning@upenn.edu",
-        cc = c("bhimes@pennmedicine.upenn.edu", "jaehyun.joo@pennmedicine.upenn.edu"),
+        cc = c("jaehyun.joo@pennmedicine.upenn.edu"),
         subject = "New AKR sequence submission",
         text = "A new AKR sequence has been submitted. Please find the attachment."
       )
       email <- emayili::attachment(email, path = fpath, name = "submission.txt")
       smtp <- emayili::server(
-        host = "smtp-mail.outlook.com",
+        host = "smtp-relay.brevo.com",
         port = 587,
-        username = "akrsuperfamily@outlook.com",
+        username = "93551c001@smtp-brevo.com",
         password = email_pw,
         max_times = 1
       )
