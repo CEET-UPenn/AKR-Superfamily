@@ -139,7 +139,21 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 This dendrogram replaces the older version constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
 
 Note that tree diagrams are only available to families with at least three members.
+
 ## Select an AKR Phylogeny Diagram
+### By Family Group
+<details>
+<summary>AKR1</summary>
+<br>
+![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true)
+</details>
+<summary>AKR2</summary>
+<br>
+![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true)
+</details>
+
+
+
 [Home](#top)
 
 ***
