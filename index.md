@@ -143,15 +143,17 @@ Note that tree diagrams are only available to families with at least three membe
 ## Select an AKR Phylogeny Diagram
 ### By Family Group
 <details>
-<summary>AKR1</summary>
-<div class="image-container">    
- <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true')"></span>
+ <summary>AKR1</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true')"></span>
+ </div>
 </details>
 
 <details>
-<summary>AKR2</summary>
-<div class="image-container">    
- <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true')"></span>
+ <summary>AKR2</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true')"></span>
+ </div>
 </details>
 
 
