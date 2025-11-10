@@ -2,7 +2,7 @@
 <head>
 <title>AKR Superfamily</title>
 <style>
-div {
+.image-container {
   max-width: 50%;
 }
 </style>
