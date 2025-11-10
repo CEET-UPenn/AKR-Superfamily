@@ -6,7 +6,7 @@
 [Multiple Sequence Alignment](#msa) | 
 [Submit AKR Sequences](#submit)
 
-# Aldo-Keto Reductase (AKR) Superfamily Database {#top}
+# Aldo-Keto Reductase (AKR) Superfamily Database
 
 This site contains existing and potential protein sequences of the AKR protein
 superfamily, as well as tools to visualize aligned sequences and their
@@ -40,7 +40,7 @@ This work was supported by the University of Pennsylvania [Center of Excellence 
 [Home](#top)
 ---
 
-# About AKR {#about}
+# About AKR 
 ## Nomenclature
 The general format for AKR names is as follows: the root symbol ‘AKR’ for Aldo-Keto Reductase; an Arabic number designating the family; a letter indicating the subfamily when multiple subfamilies exist; and an Arabic numeral representing the unique protein sequence. Under the system, the protein AKR1A1 would be the first AKR in family 1, subfamily A, and in this instance corresponds to human aldehyde reductase.
 
@@ -118,7 +118,7 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 [Home](#top)
 ---
 
-# AKR Members {#members}
+# AKR Members 
 ## Existing Members
 <a href="https://ceet-upenn.github.io/AKR-tables/#Existing">Link to Existing AKR Superfamily Members Table</a>
 
@@ -135,14 +135,14 @@ Note that tree diagrams are only available to families with at least three membe
 [Home](#top)
 ---
 
-# Multiple Sequence Alignment {#msa}
+# Multiple Sequence Alignment 
 This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. To use it, select a group of interest from the interactive menu to adjust the set of sequences output. The alignment is created with MSAViewer, which provides an interactive JavaScript-based visualization of multiple sequence alignment. Options for the aligner can be set with the blue buttons, including the color scheme. Further details can be found in the MSAViewer user manual and this GitHub repository on available color schemes.
 ## Select a set of AKR proteins to visualize
 
 [Home](#top)
 ---
 
-# Submit AKR Sequences {#submit}
+# Submit AKR Sequences 
 ## Instructions
 
 
@@ -160,25 +160,24 @@ This page enables visualization of aligned protein sequences for various groups 
 4) The sequence, the assigned designation, and position within the cluster analysis will be returned to the submitter, but the database will not be updated until the submission has been published. We encourage the submitter to use the new assignment in their publication. It is an investigator’s responsibility to notify the web-site that the information submitted has been published and provide the appropriate citation.
 
 ## Submit
-Name
-Email
-Phone
-Street Address
-Address Line 2
-City
-State/Province/Region
-Postal/Zip Code
-Country
-Trivial name if one has been assigned (if none, state None)
-Has the protein been expressed?
-Yes
-No
-What function has been assigned to the protein?
-Sequence of the protein
-Species of origin
-Expression system used
-Substrate used to assign enzyme activity
-Accession Number
-Status of Publication
-Citation, if one exists (if none, state None)
+Please email the following to placeholder@UPenn.edu
+>Name
+>Email
+>Phone
+>Street Address
+>City
+>State/Province/Region
+>Postal/Zip Code
+>Country
+>
+>Trivial name if one has been assigned (if none, state None)
+>Has the protein been expressed? Yes/No
+>What function has been assigned to the protein?
+>Sequence of the protein
+>Species of origin
+>Expression system used
+>Substrate used to assign enzyme activity
+>Accession Number
+>Status of Publication
+>Citation, if one exists (if none, state None)
 [Home](#top)
