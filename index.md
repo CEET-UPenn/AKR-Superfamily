@@ -38,13 +38,12 @@ Penning TM. [The aldo-keto reductases (AKRs): Overview.](https://pubmed.ncbi.nlm
 This work was supported by the University of Pennsylvania [Center of Excellence in Environmental Toxicology](https://ceet.upenn.edu/) (P30 ES013508).
 
 [Home](#top)
+
 ---
 
 # About AKR 
 ## Nomenclature
 The general format for AKR names is as follows: the root symbol ‘AKR’ for Aldo-Keto Reductase; an Arabic number designating the family; a letter indicating the subfamily when multiple subfamilies exist; and an Arabic numeral representing the unique protein sequence. Under the system, the protein AKR1A1 would be the first AKR in family 1, subfamily A, and in this instance corresponds to human aldehyde reductase.
-
-This nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 
 ### Definition of Families 
 Delineation of families occurs at the 40% amino acid identity level. Members of an AKR family should have < 40% amino acid identity with any other family. At present, the sixteen families defined by our cluster analysis satisfy this criterion.
@@ -61,7 +60,11 @@ Multimers are proteins which consist of multiple monomers. Although majority of 
 ### AKR Genes
 The designation for an AKR superfamily gene should be noted in italics to distinguish between the gene and the protein. For example, the gene AKR1A1 encodes the protein AKR1A1.
 
+The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
+
+
 ---
+
 ## Protein Structures
 AKRs are characterized by an (αβ)8-barrel structure.  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR_barrel_structure.png?raw=true)](https://www.rcsb.org/3d-view/1US0/1)
@@ -78,7 +81,9 @@ Cofactor binding site for 3α-HSD (AKR1C9). Distances are in angstroms.
 Blue sphere indicates the position of a water molecule and the probable position of the substrate carbonyl. Taken from 3α-HSD (AKR1c9).  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/tetrad.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
 [Home](#top)
+
 ---
+
 ## AKR Family Descriptions
 ### AKR Family 1
 AKR1 enzymes control the concentrations of active ligands for nuclear receptors and control their ligand occupancy and transactivation. Furthermore, AKR1 enzymes regulate the amount of neurosteroids that can regulate the activity of GABAa and NMDA receptors. Therefore, AKR1 enzymes are typically involved in the pre-receptor regulation of nuclear as well as membrane bound receptors. In addition, altered expression of individual AKR1C genes is related to the development of prostate, breast, and endometrial cancer. Mutations in AKR1C1 and AKR1C4 are responsible for sexual development dysgenesis, and mutation in AKR1D1 are causative in blie acid deficiency.
@@ -117,6 +122,7 @@ Members of the AKR12 family are known as Streptomyces sugar aldehyde reductases.
 Members of AKR13 are classified as hyperthermophilic bacteria reductases. These enzymes are involved in protein thermostabilization, including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide bridges, packing, decrease of the entropy of unfolding, and intersubunit interactions.
 
 [Home](#top)
+
 ---
 
 # AKR Members 
@@ -126,6 +132,7 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 ## Potential Members
 <a href="https://ceet-upenn.github.io/AKR-tables/#Potential">Link to Potential AKR Superfamily Members Table</a>
 [Home](#top)
+
 ---
 
 # Phylogenies {#phylo}
@@ -134,6 +141,7 @@ This dendrogram replaces the older version constructed in the GCG program and wa
 Note that tree diagrams are only available to families with at least three members.
 ## Select an AKR Phylogeny Diagram
 [Home](#top)
+
 ---
 
 # Multiple Sequence Alignment 
@@ -141,6 +149,7 @@ This page enables visualization of aligned protein sequences for various groups 
 ## Select a set of AKR proteins to visualize
 
 [Home](#top)
+
 ---
 
 # Submit AKR Sequences 
