@@ -173,7 +173,6 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 
 <a href="https://ceet-upenn.github.io/AKR-tables/#Potential">Link to Potential AKR Superfamily Members Table</a>
 
-<br>
 [Home](#top)
 
 ***
@@ -187,6 +186,8 @@ Note that tree diagrams are only available to families with at least three membe
 ## Select an AKR Phylogeny Diagram
 
 ### By Family Group
+
+updated
 
 <details>
  <summary>AKR1</summary>
