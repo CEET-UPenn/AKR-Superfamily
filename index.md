@@ -1,4 +1,12 @@
+
+<head>
 <title>AKR Superfamily</title>
+<style>
+div {
+  width: 50%;
+}
+</style>
+</head>
 
 [About AKR](#about) | 
 [AKR Members](#members) | 
@@ -131,6 +139,8 @@ Members of AKR13 are classified as hyperthermophilic bacteria reductases. These 
 
 ## Potential Members
 <a href="https://ceet-upenn.github.io/AKR-tables/#Potential">Link to Potential AKR Superfamily Members Table</a>
+
+<br>
 [Home](#top)
 
 ***
@@ -156,8 +166,136 @@ Note that tree diagrams are only available to families with at least three membe
  </div>
 </details>
 
+<details>
+ <summary>AKR3</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR3.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR4</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR4.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR5</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR5.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR6</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR6.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR7</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR7.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR9</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR9.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR11</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR11.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR12</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR12.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>AKR13</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/AKR13.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+### By Taxonomic Group
+<details>
+ <summary>Animalia</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Animalia_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Bacteria</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Bacteria_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Fungi</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Fungi_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Plantae</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Plantae_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Insecta</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Insecta_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Mammalia</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Mammalia_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Lagomorpha</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Lagomorpha_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Rodentia</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Rodentia_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
+
+<details>
+ <summary>Homo sapiens</summary>
+ <div class="image-container">    
+  <span style="content:url('https://github.com/CEET-UPenn/AKR/blob/main/www/Homo_sapiens_AKRs.png?raw=true')" width="400" ></span>
+ </div>
+</details>
 
 
+
+<br>
 [Home](#top)
 
 ***
