@@ -146,13 +146,14 @@ Note that tree diagrams are only available to families with at least three membe
 <summary>AKR1</summary>
 <br>
 
-![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true)
+<img src="https://github.com/CEET-UPenn/AKR/blob/main/www/AKR1.png?raw=true>
 
 </details>
 
+<details>
 <summary>AKR2</summary>
 
-![](https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true)
+<img src="https://github.com/CEET-UPenn/AKR/blob/main/www/AKR2.png?raw=true>
 
 </details>
 
