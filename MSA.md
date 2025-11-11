@@ -6,7 +6,7 @@ This page enables visualization of aligned protein sequences for various groups 
 
 msaviewer goes here
 
-<script src="path/to/msa.min.gz.js"></script>
+<script src=//cdn.bio.sh/msa/1.0/msa.min.gz.js></script>
 
 ar opts = {
   el: rootDiv,
