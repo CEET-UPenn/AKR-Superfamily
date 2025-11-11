@@ -9,7 +9,7 @@
 
 ## Submit
 
-Please email the following to placeholder@UPenn.edu
+Please email the following to akrsuperfamily@outlook.com
 >Name  
 >Email  
 >Phone  
