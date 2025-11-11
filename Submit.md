@@ -1,7 +1,6 @@
-# Submit AKR Sequences {#top}
+# Submit AKR Sequences
 
 ## Instructions
-
 
 1. Since the proposed nomenclature system is protein-based, the newly identified AKR will require that the amino acid sequence has been obtained by either cDNA cloning or by direct methods. The protein encoded by a cDNA should have been either overexpressed or purified from its natural source. Investigators should provide [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), [Swiss-Prot](https://www.expasy.org/resources/uniprotkb-swiss-prot) or PIR accession numbers.
 2. Upon submission of a complete protein sequence, it will be matched against the AKRs in the database and placed within the cluster analysis.
@@ -32,5 +31,4 @@ Please email the following to placeholder@UPenn.edu
 >Citation, if one exists (if none, state None)  
 
 
-[Home](#top)  
-[back](./)
+[Back](./)

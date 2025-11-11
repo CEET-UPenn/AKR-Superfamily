@@ -1,6 +1,6 @@
-# Phylogenies {#top}
+# Phylogenies
 
-[back](./)
+[Back](./)
 
 These dendrograms replace the older versions constructed in the GCG program and was constructed using the multialign program which enables any user to conduct their own pair-wise comparison. As a result of this enhancement, some families have shifted. However, the nomenclature of the individual AKR families, subfamilies and their members are essentially unchanged.
 
@@ -155,6 +155,5 @@ Click the group name to view the phylogeny tree
 </details>
 
 <br>
-[Home](#top)
-[back](./)
+[Back](./)
 

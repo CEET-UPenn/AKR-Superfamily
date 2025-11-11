@@ -1,9 +1,9 @@
-# About AKR {#top}
+# About AKR 
 
 [Nomenclature](#Names)  
 [Structures](#Structure)  
 [Families](#Families)  
-[back](./)
+[Back](./)
 
 ## Nomenclature {#Names}
 
@@ -31,9 +31,6 @@ The designation for an AKR superfamily gene should be noted in italics to distin
 
 The above nomenclature system was adopted at the 8th International Workshop on the Enzymology and Molecular Biology of Carbonyl Metabolism. It is similar to that for the cytochrome P450 superfamily, but, unlike that system, amino acid sequences are used for comparisons. For historical reasons, the AKR1A subfamily represents the aldehyde reductases and the AKR1B subfamily represents the aldose reductase. We recommend that authors referencing members of the AKR superfamily use any previous names along with the new designation in parenthesis - for example, human aldehyde reductase (AKR1A1).
 
-<br>
-[Home](#top)
-
 ***
 
 ## Protein Structures {#Structure}
@@ -55,9 +52,6 @@ Cofactor binding site for 3α-HSD (AKR1C9). Distances are in angstroms.
 
 Blue sphere indicates the position of a water molecule and the probable position of the substrate carbonyl. Taken from 3α-HSD (AKR1c9).  
 [![](https://github.com/CEET-UPenn/AKR/blob/main/www/tetrad.gif?raw=true)](https://www.rcsb.org/3d-view/1LWI/1)
-
-<br>
-[Home](#top)
 
 ***
 
@@ -111,6 +105,4 @@ Members of the AKR12 family are known as Streptomyces sugar aldehyde reductases.
 
 Members of AKR13 are classified as hyperthermophilic bacteria reductases. These enzymes are involved in protein thermostabilization, including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide bridges, packing, decrease of the entropy of unfolding, and intersubunit interactions.
 
-<br>
-[Home](#top)  
 [back](./)
