@@ -1,8 +1,8 @@
 # About AKR {#top}
 
 [Nomenclature](#Names)  
-[Structures](#Structure)
-[Families](#Families)
+[Structures](#Structure)  
+[Families](#Families)  
 [back](./)
 
 ## Nomenclature {#Names}
@@ -112,5 +112,5 @@ Members of the AKR12 family are known as Streptomyces sugar aldehyde reductases.
 Members of AKR13 are classified as hyperthermophilic bacteria reductases. These enzymes are involved in protein thermostabilization, including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide bridges, packing, decrease of the entropy of unfolding, and intersubunit interactions.
 
 <br>
-[Home](#top)
+[Home](#top)  
 [back](./)

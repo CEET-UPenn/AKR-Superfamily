@@ -1,17 +1,18 @@
 # Aldo-Keto Reductase (AKR) Superfamily Database
 
 [About AKR](./About-AKR.html) | 
-[AKR Members](#members) | 
-[Phylogenies](#phylo) | 
-[Multiple Sequence Alignment](#msa) | 
-[Submit AKR Sequences](#submit)
+[AKR Members](https://ceet-upenn.github.io/AKR-tables/) | 
+[Phylogenies](./Phylogenies.html) | 
+[Multiple Sequence Alignment](./MSA.html) | 
+[Submit AKR Sequences](./Submit.html)
 
 
 This site contains existing and potential protein sequences of the AKR protein
 superfamily, as well as tools to visualize aligned sequences and their
 conservation across species. In addition, scientists are encouraged to submit
 newly identified AKRs.
-<img align="right" src="https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true"alt="AKR">
+
+![](https://github.com/CEET-UPenn/AKR/blob/main/www/home.png?raw=true)
 
 AKRs share similar three-dimensional structures involving a parallel
 β-8/α-8-barrel fold, and they function as enzymes that catalyze the
