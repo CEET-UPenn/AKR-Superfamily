@@ -39,6 +39,8 @@ Mindnich RD, Penning TM. [Aldo-keto reductase (AKR) superfamily: genomics and an
 
 Penning TM. [The aldo-keto reductases (AKRs): Overview.](https://pubmed.ncbi.nlm.nih.gov/25304492/) Chem Biol Interact. 2015 Jun 5;234:236-46. doi: 10.1016/j.cbi.2014.09.024. Epub 2014 Oct 7. PMID: 25304492; PMCID: PMC4388799. 
 
+Huacachino AA, Joo J, Narayanan N, Tehim A, Himes BE, Penning TM. [Aldo-Keto Reductase (AKR) Superfamily Website and Database: an Update](https://pubmed.ncbi.nlm.nih.gov/38878851/) Chem Biol Interact. 2024 Aug 1:398:111111. doi: 10.1016/j.cbi.2024.111111. Epub 2024 Jun 13. PMID: 38878851; PMCID: PMC11232437. 
+
 ## Funding 
 
 This work was supported by the University of Pennsylvania [Center of Excellence in Environmental Toxicology](https://ceet.upenn.edu/) (P30 ES013508).
