@@ -31,7 +31,7 @@ Previous versions of this website coding and design by Jaehyun Joo, Blanca Himes
 and Trevor Penning. 
 
 Current version by Kim Lorenz, Benjamin F Voight, and Trevor Penning. Full code for this site is available on
-[GitHub](https://github.com/UPenn-CEET/AKR-Superfamily)
+[GitHub](https://github.com/CEET-UPenn/AKR-Superfamily)
 
 ## References
 
