@@ -13,7 +13,7 @@ The alignment is created with [NCBI Multiple Sequence Alignment Viewer](https://
 ## Select a set of AKR proteins to visualize
 
 
-<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=Qf7XLyH89t3a0sDa8cP-1K2pr6inqougg7iNkhiTQQ_dOe1nfH9Noik8Y0U2WW9BfWkqaGl2eWdjfXNiRU98TVx9eg,7VJ7g41QWnF2fmx2XW9SeAEFAwQLBicMLxQhPrQ_7aNxlVAoJt0XTt_1BoxTkAqIGKBPoQy_HK4GtBarIIYZhDm0Hw&track_config=protein_default&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">All AKRs</a>
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=F6iBeXeqoIuMhJaMp5Wogvv_-f7x_N321e7bxE7FFqubnYzw3kjvVN1-dwciG3sDaSs-Kn00bSV3P2cgUQ1oD0g_bg,OYavV1mEjqWiqriiibuGrNXR19Df0vPY-8D16mDrOIW1sx5e9nPHHQJkQx0WAU8ZXTEKMEkuWT9DJVM6ZRdcFXwlWg&track_config=protein_default&from=1&to=488&columns=d:120,x:17,aln" target="_blank">All AKRs</a>
 
 ### By Family Group
 
