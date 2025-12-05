@@ -15,20 +15,38 @@ The alignment is created with [NCBI Multiple Sequence Alignment Viewer](https://
 
 MSA viewer under construction
 
-AKR1:
-<div id="msaviewer_NCBI" class="MultiAlignViewerApp" data-autoload>
-<a href="?embedded=true&anchor=-1&coloring=rasmol&key=9EtimpRJQ2hvZ3VvRHZLYRgcGh0SHz4VNg04J60m9LXhg-zdoqiTo_FCqDv9J6Q_thfhFqIIshmoA7gcjjG3M5cDsQ,atX8BArX3fbx-evx2ujV_4aChIOMgaCLqJOmuTO4ait_HWdPvuWP1AxIPDFpLTA1Ih11HDYCJhM8CSwWGjsjOQMJJQ&track_config=protein_default&from=1&to=107&columns=d:120,b:55,x:17,aln,e:55,o:150&appname=ncbi_msav_demo"></a>
-</div>
+[All_AKRs](./MSA_all.html)
 
-AKR2:
-<div id="msaviewer_NCBI_AKR2" class="MultiAlignViewerApp" data-autoload>
-<a href="?embedded=true&anchor=-1&coloring=rasmol&key=Qf7XLyH89t3a0sDa8cP-1K2pr6inqougg7iNkhiTQQ_dOe1nfH9Noik8Y0U2WW9BfWkqaGl2eWdjfXNiRU98TVx9eg,7VJ7g41QWnF2fmx2XW9SeAEFAwQLBicMLxQhPrQ_7aNxlVAoJt0XTt_1BoxTkAqIGKBPoQy_HK4GtBarIIYZhDm0Hw&track_config=protein_default&columns=d:120,b:55,x:17,aln,e:55,o:150&appname=ncbi_msav_demo"></a>
-</div>
+### By Family Group
 
+[AKR1](./MSA_AKR1.html)  
+[AKR2](./MSA_AKR2.html)  
+[AKR3](./MSA_AKR3.html)  
+[AKR4](./MSA_AKR4.html)  
+[AKR5](./MSA_AKR5.html)  
+[AKR6](./MSA_AKR6.html)  
+[AKR7](./MSA_AKR7.html)  
+[AKR8](./MSA_AKR8.html)  
+[AKR9](./MSA_AKR9.html)  
+[AKR10](./MSA_AKR10.html)  
+[AKR11](./MSA_AKR11.html)  
+[AKR12](./MSA_AKR12.html)  
+[AKR13](./MSA_AKR13.html)  
+[AKR14](./MSA_AKR14.html)  
+[AKR15](./MSA_AKR15.html)  
+[AKR16](./MSA_AKR16.html)  
+[AKR17](./MSA_AKR17.html)  
 
-[AKR1](./MSA_AKR1.html) | 
-[AKR2](./MSA_AKR2.html) | 
-[AKR3](./MSA_AKR3.html) | 
+### By Taxonomic Group
 
+[Animalia](./MSA_Animalia.html)  
+[Bacteria](./MSA_Bacteria.html)  
+[Fungi](./MSA_Fungi.html)  
+[Plantae](./MSA_Plantae.html)  
+[Insecta](./MSA_Insecta.html)  
+[Mammalia](./MSA_Mammalia.html)  
+[Lagomorpha](./MSA_Lagomorpha.html)  
+[Rodentia](./MSA_Rodentia.html)  
+[Homo sapiens](./MSA_Homo_sapiens.html)  
 
 [Back](./)
