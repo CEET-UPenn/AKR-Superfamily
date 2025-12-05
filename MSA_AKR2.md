@@ -11,6 +11,5 @@ AKR2 MSA
 </div>
 
 
-<a href="https://akrsuperfamily.org/MSA.html">Back to MSA List</a>  
+<a href="https://akrsuperfamily.org/MSA.html">Back</a>  
 
-<a href="https://akrsuperfamily.org">Back to Main Site</a>
