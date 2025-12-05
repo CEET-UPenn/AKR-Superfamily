@@ -7,4 +7,6 @@
 </div>
 
 
-[Back](./)
+<a href="https://akrsuperfamily.org/MSA.html">Back to MSA List</a>  
+
+<a href="https://akrsuperfamily.org">Back to Main Site</a>
