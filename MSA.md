@@ -2,6 +2,8 @@
 
 This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. 
 
+[Click here](./Downloads) to download the data used to make these alignments
+
 The alignment is created with [NCBI Multiple Sequence Alignment Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
 
 ## Select a set of AKR proteins to visualize
