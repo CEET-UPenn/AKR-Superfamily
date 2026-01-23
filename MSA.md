@@ -1,17 +1,10 @@
 # Multiple Sequence Alignment
 
-<head>
-<script type="text/javascript" src="https://www.ncbi.nlm.nih.gov/projects/msaviewer/js/multialign.js"></script>
-</head>
-
-MSA viewer under construction
-
 This page enables visualization of aligned protein sequences for various groups of AKRs that are stored in our database. 
 
 The alignment is created with [NCBI Multiple Sequence Alignment Viewer](https://www.ncbi.nlm.nih.gov/projects/msaviewer/)
 
 ## Select a set of AKR proteins to visualize
-
 
 <a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=pBsyysQZEzg_NyU_FCYbMUhMSk1CT25FZl1od_125biYjq0m3azsA2-FP_xq4DP4IdB20TXPJd4_xC_bGfYg9ADEJg,DbKbY22wupGWnoyWvY-ymOHl4-Tr5sfsz_TB3lTfTBExJysM0T7gRnkiMVtkRz1fL3d4djtoK3kxYyF8F1EuUw5jKA&track_config=protein_default&from=332&to=392&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">All AKRs</a>
 
@@ -38,14 +31,14 @@ AKR17 (no MSA, single sequence)
 
 ### By Taxonomic Group
 
-[Animalia](./MSA_Animalia.html)  
-[Bacteria](./MSA_Bacteria.html)  
-[Fungi](./MSA_Fungi.html)  
-[Plantae](./MSA_Plantae.html)  
-[Insecta](./MSA_Insecta.html)  
-[Mammalia](./MSA_Mammalia.html)  
-[Lagomorpha](./MSA_Lagomorpha.html)  
-[Rodentia](./MSA_Rodentia.html)  
-[Homo sapiens](./MSA_Homo_sapiens.html)  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=aNf-BgjV3_Tz--nz2OrX_YSAhoGOg6KJqpGkuzG6KW69WHPLlFClbMEsWlUPSVZRRHkTeFBmQHdabUpyfF9FXWVtQw,5Vpzi4VYUnl-dmR-VWdacAkNCwwDDi8EJxwpNrw3pOMw1VHhA6UyJd-KcfMk7333b9843nvAa9Fxy2HUV_lu-07LaA&track_config=protein_default&from=272&to=334&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Animalia</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=Q_zVLSP-9N_Y0MLY88H81q-rraqlqImigbqPkBqRAkT9cpa3r26eVc93Kg5_EiYKNCJjIyA9MCwqNjopDAQ1BhU2Mw,V-jBOTfq4MvMxNbM59Xowru_ub6xvJ22la6bhA6FFlDpZtVB0jrjvdel7Ny5wODY8vCl8ebv9v7s5Pz7ytbz1NPk9Q&track_config=protein_default&from=48&to=108&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Bacteria</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=7VJ7g41QWnF2fmx2XW9SeAEFAwQLBicMLxQhPrQ_rOow3GKH84TCG1U1xkyTUMpI2GCPYcx_3G7GdNZr4EbZRPl03w,_kFokJ5DSWJlbX9lTnxBaxIWEBcYFTQfPAcyLacsv_kjz1yQRPB1D3Z0lA3BEZgJiiHdIJ4-ji-UNYQqsgeLBas1jQ&track_config=protein_default&from=61&to=121&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Fungi</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=Uu3EPDLv5c7JwdPJ4tDtx766vLu0uZizkKuegQuAE1JHZDHQXK1tq0N-MgdnGz4DLCt7Kjg0KCUyPyIgFA0tDw0_Kw,4V53j4FcVn16cmB6UWNedA0JDwgHCisAIxgtMrgzoOH015PXW-xqlqquUdcEy13TT_sY-lvkS_VR70Hwd91O327vSA&track_config=protein_default&from=61&to=121&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Plantae</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=dMviGhTJw-jv5_XvxPbL4Zicmp2Sn76Vto24py2mNXQwQuZIGiYrH2YQemkvdXZtZEUzRHBaYEt6UWpOXGNlYUVRYw,rxA5wc8SGDM0PC40Hy0QOkNHQUZJRGVObVZjfPZ97q_rmZ_DkhOjYapp2BCNDNQUxjyRPdIjwjLYKMg3_hrHGOcowQ&track_config=protein_default&from=240&to=300&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Insecta</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=GKeOdnilr4SDi5mDqJqnjfTw9vH-89L52uHUy0HKWRigLis9_OnNup0FA3xWYA94HVBKUQlPGV4DRBNbJXYcdDxEGg,6lV8hIpXXXZxeWtxWmhVfwYCBAMMASALKBMmObM4q-pS3GJtot-Tpz8D93qiZvt-6Va-V_1J7Vj3Qudd0XDocshC7g&track_config=protein_default&from=161&to=221&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Mammalia</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=XeLLMz3g6sHGztzG7d_iyLG1s7S7tpe8n6SRjgSPHF2-a5jEA1cyiCmp6tC_zObU9Pyj_eDj8PLq6Pr3zNr12NXo8w,e8TtFRvGzOfg6Prgy_nE7peTlZKdkLGauYK3qCKpOnuYTdGnFf8k3qRLLjJ7LiI2MB5nHyQBNBAuCj4VCDgxOhEKNw&track_config=protein_default&from=111&to=171&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Lagomorpha</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=z3BZoa9yeFNUXE5Uf01wWiMnISYpJAUuDTYDHJYdjs8S-fQiDMM9il9zogr3Fq4OvCbrJ6g5uCiiMrIthAC9Ap0yuw,Ue7HPzHs5s3KwtDK4dPuxL25v7i3upuwk6idggiDEFGMZ8xVck9DmaFuIRd0Cy0TPztoOiskOzUhLzEwBx0-Hx4vOA&track_config=protein_default&from=140&to=200&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Rodentia</a>  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=0G9GvrBtZ0xLQ1FLYFJvRTw4Pjk2OxoxEikcA4kCkdHD56nSKwgaKwiGSP8d40T7VtMB0kLMUt1Ix1jYbvVX93fHUQ,bdL7Aw3Q2vH2_uz23e_S-IGFg4SLhqeMr5ShvjS_LGx-WguZEa4gO6qW5e-w8-nr-8Oswu_c_83l1_XIw-X659rX_A&track_config=protein_default&from=111&to=171&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">Homo sapiens</a>  
 
 [Back](./)
