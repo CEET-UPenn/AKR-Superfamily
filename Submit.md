@@ -10,7 +10,7 @@
 
 ## Submit
 
-Please email the following to akrsuperfamily (at) outlook.com
+Please email the following to <font color="blue">akrsuperfamily (at) outlook.com</font>
 >Name  
 >Email  
 >Phone  

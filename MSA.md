@@ -13,27 +13,28 @@ The alignment is created with [NCBI Multiple Sequence Alignment Viewer](https://
 ## Select a set of AKR proteins to visualize
 
 
-<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=F6iBeXeqoIuMhJaMp5Wogvv_-f7x_N321e7bxE7FFqubnYzw3kjvVN1-dwciG3sDaSs-Kn00bSV3P2cgUQ1oD0g_bg,OYavV1mEjqWiqriiibuGrNXR19Df0vPY-8D16mDrOIW1sx5e9nPHHQJkQx0WAU8ZXTEKMEkuWT9DJVM6ZRdcFXwlWg&track_config=protein_default&from=1&to=488&columns=d:120,x:17,aln" target="_blank">All AKRs</a>
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=pBsyysQZEzg_NyU_FCYbMUhMSk1CT25FZl1od_125biYjq0m3azsA2-FP_xq4DP4IdB20TXPJd4_xC_bGfYg9ADEJg,DbKbY22wupGWnoyWvY-ymOHl4-Tr5sfsz_TB3lTfTBExJysM0T7gRnkiMVtkRz1fL3d4djtoK3kxYyF8F1EuUw5jKA&track_config=protein_default&from=332&to=392&columns=d:120,b:55,x:17,aln,e:55,o:150" target="_blank">All AKRs</a>
 
 ### By Family Group
 
-[AKR1](./MSA_AKR1.html)  
-[AKR2](./MSA_AKR2.html)  
-[AKR3](./MSA_AKR3.html)  
-[AKR4](./MSA_AKR4.html)  
-[AKR5](./MSA_AKR5.html)  
-[AKR6](./MSA_AKR6.html)  
-[AKR7](./MSA_AKR7.html)  
-[AKR8](./MSA_AKR8.html)  
-[AKR9](./MSA_AKR9.html)  
-[AKR10](./MSA_AKR10.html)  
-[AKR11](./MSA_AKR11.html)  
-[AKR12](./MSA_AKR12.html)  
-[AKR13](./MSA_AKR13.html)  
-[AKR14](./MSA_AKR14.html)  
-[AKR15](./MSA_AKR15.html)  
-[AKR16](./MSA_AKR16.html)  
-[AKR17](./MSA_AKR17.html)  
+<a href="https://www.ncbi.nlm.nih.gov/projects/msaviewer/?anchor=-1&coloring=rasmol&key=9EtimpRJQ2hvZ3VvRHZLYRgcGh0SHz4VNg04J60m9LXhg-zdoqiTo_FCqDv9J6Q_thfhFqIIshmoA7gcjjG3M5cDsQ,atX8BArX3fbx-evx2ujV_4aChIOMgaCLqJOmuTO4ait_HWdPvuWP1AxIPDFpLTA1Ih11HDYCJhM8CSwWGjsjOQMJJQ,kS4H__EsJg0KAhAKIRMuBH15f3h3eltwU2hdQshD0IEAt6D0HOAt2orbVKIBvlimSo4dj16RToBUmkSFcqhLqmuaTQ,xXpTq6V4clleVkRedUd6UCktKywjLg8kBzwJFpwXhNVU40RYSjV7sxROlTfAK5kzixvcGp8EjxWVD4UQsz2KP6oPjA,sQ4n39EMBi0qIjAqATMOJF1ZX1hXWntQc0h9Yuhj8KFUlxStWuxrZ8z-UYcEm12DT6sYqlu0S6VRv0Ggd41Oj26_SA,sg0k3NIPBS4pITMpAjANJ15aXFtUWXhTcEt-Yetg86JXlAsDldekdHpI5DGxLeg1-h2tHO4C_hPkCfQWwjv7OdsJ_Q&track_config=protein_default&from=115&to=181&columns=d:120,b:55,x:17,aln,e:55" target="_blank">AKR1</a>
+<a href="" target="_blank">AKR2</a>
+<a href="" target="_blank">AKR3</a>
+<a href="" target="_blank">AKR4</a>
+<a href="" target="_blank">AKR5</a>
+<a href="" target="_blank">AKR6</a>
+<a href="" target="_blank">AKR7</a>
+<a href="" target="_blank">AKR8</a>
+<a href="" target="_blank">AKR9</a>
+<a href="" target="_blank">AKR10</a>
+<a href="" target="_blank">AKR11</a>
+<a href="" target="_blank">AKR12</a>
+<a href="" target="_blank">AKR13</a>
+<a href="" target="_blank">AKR14</a>
+<a href="" target="_blank">AKR15</a>
+<a href="" target="_blank">AKR16</a>
+<a href="" target="_blank">AKR17</a>
+
 
 ### By Taxonomic Group
 

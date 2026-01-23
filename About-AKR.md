@@ -109,4 +109,20 @@ Members of the AKR12 family are known as Streptomyces sugar aldehyde reductases.
 
 Members of AKR13 are classified as hyperthermophilic bacteria reductases. These enzymes are involved in protein thermostabilization, including ion pairs, hydrogen bonds, hydrophobic interactions, disulfide bridges, packing, decrease of the entropy of unfolding, and intersubunit interactions.
 
+### AKR Family 14
+
+One member from E. coli and one member from Salmonella and are both aldehyde reductases in the bacteria taxonomic group.
+
+### AKR Family 15
+
+One member from Microbacterium with unique pyridoxal dehydrogenase activity is most closely related phylogenetically to the AKR10 and AKR16 families which are in the bacteria taxonomic group.
+
+### AKR Family 16
+
+Two members AR16A1 and 16B1 from Vbrio cholerae and Agrobacteriun which function as an aldo-keto reductase and aryl alcohol dehydrogenase respectively which are most closely related phylogenetically to the AKR15 and AKR16 families which are in the bacteria taxonomic group.
+
+### AKR Family 17
+
+One member from Nostoc sp (nitrogen fixing-cyanobacterium) and aldehyde and ketone reductase most closely related to the AKR13 family which are in the bacteria taxonomic group.
+
 [Back](./)
